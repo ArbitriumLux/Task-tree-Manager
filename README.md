@@ -8,7 +8,7 @@ Database - PostgreSQL
 * Create Labor costs for Minitask  
 
 **/tree/{TaskName}**  
-* Select tree Task-> Minitasks-> Labor costs, display on page (For each of the elements, the total time spent and the average time for all subordinate elements is calculated by goroutines)  
+* Select tree Task-> Minitasks-> Labor costs, display on page (For each of the elements, the total time spent(Labor costs) and the average time(Labor costs) for all subordinate elements is calculated by goroutines)  
 * Removing any of the items from the displayed list with data recalculation  
 * Reassignment of Minitasks, Labor costs to other parents  
 ---
